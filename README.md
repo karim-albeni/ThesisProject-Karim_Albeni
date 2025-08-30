@@ -1,5 +1,6 @@
-# ThesisProject - Karim Albeni
+# ThesisProject - Karim Albeni & Omar Yusuf
 Karim Albeni - Stockholm University
+Omar Yusuf - Stockholm University
 
 This repository contains code for comparing the performance of REST APIs built with Django (Python) and Spring Boot (Java).
 
